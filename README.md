@@ -29,7 +29,7 @@ Your challenge is to build out this QR code component and get it looking as clos
 
 ### Links
 
-- Solution URL: [Github](https://github.com/shidqiiii/Frontend-Mentor-Challenge/tree/qr-code/qr-code-component-main)
+- Solution URL: [Github](https://github.com/shidqiiii/QR-code-component)
 - Live Site URL: [Netlify](https://qr-code-dev-arunika.netlify.app/)
 
 ## My process
